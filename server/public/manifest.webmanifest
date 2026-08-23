@@ -1,0 +1,11 @@
+{
+  "name":"SIHATI — صحتي",
+  "short_name":"SIHATI",
+  "start_url":"./index.html",
+  "display":"standalone",
+  "background_color":"#f4f8f7",
+  "theme_color":"#087f6b",
+  "lang":"ar",
+  "dir":"rtl",
+  "icons":[{"src":"assets/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}]
+}
